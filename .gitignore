@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+# generated per-territory outputs and scratch databases (reproducible with region.py / collect.py)
+outputs/regions/
+outputs_fresh/
+data/fresh.sqlite
+*.sqlite-journal
